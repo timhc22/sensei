@@ -57,6 +57,7 @@ class Sensei_Data_Cleaner {
 		'sensei_installed',
 		'sensei_course_enrolment_site_salt',
 		'sensei_course_order',
+		'sensei-tools-jobs',
 		'skip_install_sensei_pages',
 		'sensei_flush_rewrite_rules',
 		'sensei_needs_language_pack_install',
