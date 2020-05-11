@@ -73,9 +73,6 @@
     "*.{js,jsx}": [
       "npm run format-js",
       "wp-scripts lint-js"
-    ],
-    "*.php": [
-      "npm run run-phpcs"
     ]
   }
 }
